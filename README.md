@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tvesh4
-- 👀 I’m interested in STREAM
-- 🌱 I’m currently learning a bunch of stuff
+- 👀 I’m interested in everything STREAM
+- 🌱 I’m currently learning a bunch of stuff in tech
 - 💞️ I’m looking to collaborate on AIoT, fintech projects (Not specialized, just curious)
 - 📫 How to reach me tveshak@gmail.com
 
