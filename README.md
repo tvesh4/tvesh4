@@ -18,12 +18,13 @@ Projects:
 
 HydroShooter (Feb 2023 - Apr 2023)
 - Designing a toy aeroplane and developing a business model from the engineering perspective. Utilised tools such as laser cutting machines and 3D printers.
-- This project was submitted to the HKU ENGG1320 course.
+- Submitted to the HKU ENGG1320 course.
 
 ACE - AI Care for the Elderly (Nov 2021 - Jan 2021)
 - An AIoT system to take care of our ageing parents and grandparents. Vision to adopt machine learning to grasp patterns in living habits while respecting privacy.
 Video Demonstration:
 https://youtu.be/wvADnTICfPQ
+You could also check out P8 here: https://cityueegef.github.io/exhibition2020/
 
 Ocean Imagineer (July 2021 - Sept 2021)
 - Fabrication of a floating laboratory. Please find more information about this wonderful ecological project and my contribution at its official website below.
