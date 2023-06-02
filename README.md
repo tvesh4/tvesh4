@@ -7,7 +7,12 @@
 tvesh4/tvesh4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+My languages (in order of proficiency):
+- Python
+- C++
+- HTML & CSS
+- Julia
+- JavaScript
 
 Projects:
 
